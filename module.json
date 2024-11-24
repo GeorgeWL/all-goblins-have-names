@@ -20,10 +20,10 @@
       "discord": "Cattegy#7436"
     }
   ],
-  "version": "3.0.0",
+  "version": "3.0.1",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "esmodules": [ "scripts/index.js" ],
   "url": "https://github.com/mnoreke/all-goblins-have-names",
